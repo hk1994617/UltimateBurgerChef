@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 407546c588cc3aa49abd727e9c14803e, type: 3}
+  m_Name: _ResipeListSO
+  m_EditorClassIdentifier: 
+  resipeSOList:
+  - {fileID: 11400000, guid: 5145ff10dedbc594bb5fa6255b8211cb, type: 2}
+  - {fileID: 11400000, guid: 2728d8b2795812e479b89d3a23a3b6bb, type: 2}
+  - {fileID: 11400000, guid: 589969e95219f804fa84ca5215eaf2bc, type: 2}
+  - {fileID: 11400000, guid: 8279276f7d5e6c2418ac973913ecff49, type: 2}
